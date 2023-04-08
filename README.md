@@ -1,16 +1,6 @@
 # chatgpt_dalle
 
-A new Flutter project.
+A Flutter project which integrates both ChatGPT and DALL-E APIs and uses voice commands to generate response.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![github-post](https://user-images.githubusercontent.com/43003421/230734831-920f1e19-bed3-45b2-9522-b4e36e9fafac.png)
